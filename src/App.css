@@ -1,0 +1,28 @@
+.App {
+    text-align: center;
+    background-color: linear-gradient(to bottom, var(--green) , var(--blue-dark));
+}
+
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 5px;
+}
+
+h1{
+  color: rgb(21, 7, 141);
+}
+
+button{
+  background-color: rgb(46, 153, 241);
+  color: white;
+  border-radius: 5px;
+  margin-left: 5px;
+  padding: 7px 14px;
+}
+
+input{
+  border: 2px solid rgb(20, 8, 83);
+  padding:15px 10px 15px 5px;
+}
